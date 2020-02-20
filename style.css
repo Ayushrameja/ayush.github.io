@@ -1,0 +1,80 @@
+p{
+	font-style: initial;
+	font-height:18px; 
+	font-size:120%;
+	font-family:fantasy;
+	word-spacing: 10px;
+}
+form{
+	font-style: initial;
+	font-weight: initial;
+	font-height:18px;
+	font-size:120%;
+	font-family:fantasy;
+	word-spacing: 10px;
+}
+input{
+	font-style: initial;
+	word-spacing: 10px;
+	font-height:18px;
+	font-size:120%;
+    font-family:fantasy;
+}
+fieldset{
+	font-style: initial;
+	word-spacing: 10px;
+	font-height:18px;
+	font-size:120%;
+	font-family:fantasy;
+}
+.harsh {
+    font-style: initial !important;
+	word-spacing: 10px;
+	font-height:18px;
+	font-size:120%;
+	font-family:fantasy;
+   
+}
+#div1 {
+	background:rgba(171,178,185,0.5);
+}
+#div2 {
+	background: rgba(171,178,185,0.5);
+}
+.ayush{
+	cursor: pointer;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+img{
+	transition: all 1s;
+}
+img:hover{
+	transform:scale(1.1);
+}a
+h1{
+	font-size: 70px;
+}
+h2{
+	font-size: 60px;
+	font-family: fantasy;
+}
+.w3-content{
+	font-style: initial;
+	font-weight: initial;
+	font-height:18px;
+	font-size:110%;
+	font-family:fantasy;
+}
+.w3-third{
+	margin: 15px;
+}
+.cooking{
+	background: rgba(103,115,128,0.3);
+}
+#front{
+	font-size:1%;
+	font-height:1px;
+}
+

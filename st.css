@@ -1,0 +1,56 @@
+body{
+	background:url('https://images.pexels.com/photos/349610/pexels-photo-349610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+     ;
+}
+.container{
+	max-width:10000px;
+	max-height: 100px;
+}
+h1{
+	color: #424949 ;
+	font-size: 800%;
+	margin-left: 56rem;
+	margin-top: 2px;
+
+}
+h2{
+	font-size: 400%;
+	margin-left: 52rem;
+	margin-top:250px;
+}
+h1:hover{
+	color:rgb(0,0,0);
+	font-size:10rem;
+}
+.con{
+	margin-left: 70rem;
+	margin-top: 200px;
+}
+.btn:hover{
+    border-radius:150px;
+    font-size:20px; 
+}
+.buffer{
+	height:500px;
+}
+.buffer1{
+	background:black;
+	height: 100px;
+}
+.content{
+	background:black;
+}
+.para{
+	font-size:5rem;
+	color: white;
+	margin-left: 15px;
+}
+.para1{
+	font-size: 3rem;
+	color: white;
+	margin-left: 20px;
+}

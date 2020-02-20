@@ -1,0 +1,62 @@
+HTML,body{
+	background:url("https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80")no-repeat center center fixed;
+	font-family: 'Lacquer', sans-serif;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+}
+h1{
+	font-size: 350%;
+    color:#424949;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+h2{
+	font-size: 300%;
+    color:#424949;	
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.form-group{
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 30px; 
+	
+}
+.ayush{
+	color:white;
+	margin-top: 50px;
+	margin-left: 500px;
+	margin-right: 400px;
+	background: rgba(0,0,0,0.5);
+}
+.footer{
+	background:rgba(0,0,0,1);
+	text-align: center; 
+	color:white;
+	margin-left: 800px;
+	margin-right: 905px; 
+
+}
+.btn1{
+	background:blue;
+	border-color:blue;  
+}
+.btn1:hover{
+	background:black;
+	font-size: 105%;
+	border-color: black;
+}
+.div1{
+	margin-right: 700px;
+	color: red;
+}
+.btn2{
+	background:red;
+    border-color: red;
+}
+.btn2:hover{
+    background:black;
+    border-color: black;
+}
